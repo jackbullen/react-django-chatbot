@@ -10,7 +10,7 @@ This is a React and Django application that uses the OpenAI API to generate text
 
 ## Demo
 
-
+<img width="510" alt="Screen Shot 2023-12-19 at 1 46 39 AM" src="https://github.com/jackbullen/react-django-chatbot-2/assets/37254717/d18a1b29-25e7-4bdd-8b67-a1b81e413c59">
 
 ## Installation
 
